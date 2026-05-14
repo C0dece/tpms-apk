@@ -1,20 +1,6 @@
-# APK сборки (кроме финальной)
-tpms_test*.apk
-tpms_test*.idsig
-tpms_prod.apk
-tpms_prod_ru.apk
-tpms_prod_signed.apk
-tpms_prod_signed.idsig
-tpms_prod_ru.idsig
-tpms_prod_ru_signed.idsig
-tpms_final.apk
-tpms_final_signed.apk
-tpms_final_signed.idsig
-tpms_modified.apk
-tpms_pass1.apk
-tpms_platform_signed.apk
-tpms_platform_signed.idsig
-tpms_signed.apk
+# APK сборки (исключаются все)
+*.apk
+*.idsig
 
 # Platform ключи (секретные)
 platform.p12
