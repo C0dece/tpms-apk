@@ -49,7 +49,7 @@
 
 ## 📥 Скачивание APK
 
-*[⬇️ Скачать tpms_prod_ru_signed.apk (3.5 MB)](../../releases/download/v1.0/tpms_prod_ru_signed.apk)*
+[⬇️ Скачать tpms_prod_ru_signed.apk (3.5 MB)](../../releases/download/v1.0/tpms_prod_ru_signed.apk)
 
 ---
 
