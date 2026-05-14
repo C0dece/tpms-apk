@@ -1,0 +1,718 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 3.6.3
+
+Name: res/drawable-nodpi-v4/back_exchange.png
+SHA1-Digest: WhRhIgaayX7CZg0K/h8c6BHDU0I=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: zorcqItZ5n8Hki/98aJs7WGjV/g=
+
+Name: res/layout/confirm_dialog.xml
+SHA1-Digest: kNjplqWPpX5IyEb4FGAFWvjE2aE=
+
+Name: res/anim/playa_horizontalgroup000layoutinit.xml
+SHA1-Digest: lCLOp+rn4IMGOrEm4ITC9qLnGCo=
+
+Name: res/drawable-nodpi-v4/connect_ok_l.png
+SHA1-Digest: fzEE17hq7ULPHA0xcFw5wPcL2mU=
+
+Name: res/drawable-nodpi-v4/btn_dec_n.png
+SHA1-Digest: fH13owJWGtoief+rayCFbSIPaHc=
+
+Name: res/drawable/exchange_nosptires_level.xml
+SHA1-Digest: XqKa55mqVQ0t8O4ZnhBSUv3Fz/g=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/waring_info.png
+SHA1-Digest: ikaKt4KfZ6QP4Q+izM/pwewUafc=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange_sp_br.png
+SHA1-Digest: Y4Xjh3q0KoRLVkvmVE1FsPs5K04=
+
+Name: res/drawable/togglebutton_selector.xml
+SHA1-Digest: t3w8wMMcJdkvhHrjpDpROzYh0R4=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: z0oai5b1MK3J/UNjdCA5ECdf2qg=
+
+Name: res/drawable-nodpi-v4/img_nosptires_exchange_fl_fr.png
+SHA1-Digest: uLIvOaAhdq5Ae2ZHUUswf0kagFY=
+
+Name: res/drawable/bl_br_level.xml
+SHA1-Digest: OyRlnmerW8xhXdxWMvgAO13inEk=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: 78tfOo1Cci2dIwFwQQl9hnvAEY0=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: bTBNr2MZQMMKzG8WZfMMlURo37Y=
+
+Name: res/drawable/fr_br_level.xml
+SHA1-Digest: fHi2NvyVRY1aO7liAr31ehLWLCA=
+
+Name: res/drawable-nodpi-v4/canel_paire_d.png
+SHA1-Digest: mXb1GYqRDpetv5RU3uNcq3HkZvU=
+
+Name: res/drawable/btn_start_exchange_selector.xml
+SHA1-Digest: 8QH1Hyjx+b7+q3iMSzIJBr6/sE8=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: WQRDpWMQZiK0QAYq3/lXFJopZ5s=
+
+Name: res/drawable/btn_set_selector.xml
+SHA1-Digest: E+Ro7zTvQHxk22FLhp1JcY0UvEE=
+
+Name: res/raw/rfdidi.wav
+SHA1-Digest: cv6iCmMTwqdkzD6xTijoS6JMEt0=
+
+Name: META-INF/androidx.customview_customview.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange_fl_bl.png
+SHA1-Digest: xKWI8LsOiv+zBXbzbA06YvnHu6M=
+
+Name: res/drawable/tires_bkinfo_level.xml
+SHA1-Digest: brGF21oDy/DzxE0hv1mNBSfQYkc=
+
+Name: res/drawable-nodpi-v4/btn_ok_n.png
+SHA1-Digest: cQvfT8d/fgTwq/+zDS4L7vJXO/U=
+
+Name: resources.arsc
+SHA1-Digest: QXDBcWOvwJBnJONVy12S6OhHXCc=
+
+Name: res/drawable-nodpi-v4/btn_paire_id_n.png
+SHA1-Digest: LOjjSPGTU8TpM4bQcWIyjzMUBlA=
+
+Name: res/drawable/btn_exchange_selector.xml
+SHA1-Digest: uqAyQtWhu5FzDnLOMd5xKcJWLik=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 45ELUFu6k7VDX9LgRMR/8nKYv0U=
+
+Name: res/drawable-nodpi-v4/btn_paire_id_d.png
+SHA1-Digest: J+i1QKjw68uFsFFnQGl6Dxl3lrY=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange_sp_fr.png
+SHA1-Digest: QamolZpr3OLbo2yh1DiGaJg2EO0=
+
+Name: res/drawable-nodpi-v4/sptires_waring_info.png
+SHA1-Digest: 66uRAA/9DjC8Dmfv904Vz0cB3R4=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA1-Digest: OGGiGAP82euSpAMCew2iu3rdTeE=
+
+Name: res/drawable/btn_long_selector.xml
+SHA1-Digest: r1BzqeFypTWy60LioCvlEEbw7Lo=
+
+Name: res/drawable/sp_br_level.xml
+SHA1-Digest: JkpruFfzN7BnPnrIVFyhG34Pzqw=
+
+Name: res/drawable-nodpi-v4/connect_error_r.png
+SHA1-Digest: jYzS9L16hFTL8Df/3mwUbgXHgvI=
+
+Name: res/drawable-nodpi-v4/tires_d.png
+SHA1-Digest: BM3UgLD2dEjgxDnWCXONWK3rAl8=
+
+Name: res/drawable-nodpi-v4/btn_long_n.png
+SHA1-Digest: GHdiD6OeRwQHPxoE0Y+OSPpA28w=
+
+Name: res/drawable/fr_fl_level.xml
+SHA1-Digest: MwRFRda9krFiTSDMEKVRVaIuCuo=
+
+Name: res/drawable-nodpi-v4/sptires_d.png
+SHA1-Digest: aGond9LZLJVXGlNtlrAaxbdAj3U=
+
+Name: res/drawable-nodpi-v4/master_cross.png
+SHA1-Digest: 95+8NmKVu43XZns1YOePJucr0IM=
+
+Name: res/drawable-nodpi-v4/error_planexx.png
+SHA1-Digest: LenQGqIVCdNcsrn7c9XTCw7RI1E=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: qtoCsdEoyaDYmAvH44tfVLv6hoY=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: R9oQj1b/NDbh/GxT+yXevtwePoQ=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: res/drawable-nodpi-v4/deputy_master.png
+SHA1-Digest: 6lpsjDAWdIrj5J40vInT72TeYtY=
+
+Name: res/drawable-nodpi-v4/ic_car.png
+SHA1-Digest: lHmrVvNDlbnYtGJiOWsFO9CtjxE=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: 7GPUIWw1yGVJWXfFNSDV9suJL74=
+
+Name: res/drawable-nodpi-v4/ic_fl_br.png
+SHA1-Digest: fDQs9Go5laaDr9wI69S8oyyuliM=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange_bl_br.png
+SHA1-Digest: 4S3d/a82u7hpzNd0Zm5+7fQGwKo=
+
+Name: res/drawable-nodpi-v4/img_nosptires_exchange_fl_bl.png
+SHA1-Digest: gsquATt6tlcnz1PblQF7gi3S96Y=
+
+Name: lib/arm64-v8a/libstdSerialport.so
+SHA1-Digest: XRtQ1YJ3Oq5QZeH16OchT2wiAXE=
+
+Name: res/drawable-nodpi-v4/bettaok.png
+SHA1-Digest: Ri4EHBTxzj1j0vcUgGnvjI4fxFE=
+
+Name: res/drawable/txt_color_selector.xml
+SHA1-Digest: CWCpKIpULj7p31MPiDHR2FNrIFQ=
+
+Name: META-INF/androidx.legacy_legacy-support-core-ui.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: Vjo405kRBf/2fglszVGCqCXnMpo=
+
+Name: res/drawable-nodpi-v4/ic_close.png
+SHA1-Digest: XvOeeXjK8Rm5ikpuT3/TKb7mDF8=
+
+Name: res/drawable/btn_cannel_selector.xml
+SHA1-Digest: od6bjvDdPfHnJpeheKeC6LJw+1M=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: Rp1s22NBc6MfeZ0LA8DnlnU0+j4=
+
+Name: res/drawable/sp_fr_level.xml
+SHA1-Digest: qagqZDi3jaXQH72ElvZfxN8cGHk=
+
+Name: res/drawable-nodpi-v4/connect_error_l.png
+SHA1-Digest: drVqvrnxRR0Yzso+8aUhJdWaTj8=
+
+Name: res/drawable-nodpi-v4/blue_bg.png
+SHA1-Digest: n4EkdBf5BCu4BXpJUL1xTNG/yW4=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: QR4SrT14UjhJwQafQkI4skk6AcU=
+
+Name: res/drawable-nodpi-v4/btn_dec_d.png
+SHA1-Digest: BLdkh55uw+nHWdM93wrMl3zucgg=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA1-Digest: OGGiGAP82euSpAMCew2iu3rdTeE=
+
+Name: res/layout/click_error_toast.xml
+SHA1-Digest: m0Yszrf2PBoFAjj72yMKmHVmnsQ=
+
+Name: res/layout/activity_main_test.xml
+SHA1-Digest: HHGMPTlXtV6n1XwqMev2oR0uuJs=
+
+Name: res/drawable/fl_bl_level.xml
+SHA1-Digest: RHaEfB2f4g0zf01OLBmIXJA3m+w=
+
+Name: res/layout/reset_dialog.xml
+SHA1-Digest: kwQak/MBd7A8TNN7/qSQ+SoxHTQ=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange_fl_br.png
+SHA1-Digest: KijEsH5DOgHlIAGSvJ95C10muy0=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange_fr_br.png
+SHA1-Digest: 6N5ZhZ6w44HyYA2bredx6gFX7l0=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/ic_sp_br.png
+SHA1-Digest: zO93iDQY5mQWVAaJ/fxcS3NhlQg=
+
+Name: res/layout/activity_screen.xml
+SHA1-Digest: TbQygjv2rmbE1NeVyHAINrNPvsg=
+
+Name: res/drawable-nodpi-v4/btn_set_d.png
+SHA1-Digest: RfoyQG+2H3TnevMaAA7oZqXJiTg=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+Name: res/layout/activity_paire_id.xml
+SHA1-Digest: r4xVOQrKuU55xacYWYfbsDzurao=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/btn_cannel_exchange.png
+SHA1-Digest: 7Nv2DQsD3KgJOiQQOwITDlFXrns=
+
+Name: res/drawable-nodpi-v4/img_nosptires_exchange_bl_fl.png
+SHA1-Digest: Duny0skh+cR7HGy3Yl0LVjJRzQQ=
+
+Name: res/drawable-nodpi-v4/connect_ok_r.png
+SHA1-Digest: oFp3Vz52/7lSyKh1rQNYXfBj6QI=
+
+Name: res/drawable/fl_br_level.xml
+SHA1-Digest: KNS1w5qHvpqMVd6nmtDCTuWdC04=
+
+Name: res/layout/fragment_set.xml
+SHA1-Digest: PVbsidmKyX34/1Nv5f+kbsRyV5E=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange_sp_bl.png
+SHA1-Digest: p25FlKAf3t4almf5YHfsSnMFWw8=
+
+Name: res/drawable/sp_bl_level.xml
+SHA1-Digest: yBe5bfDrfpiqxnvFSJSjbcRQMgs=
+
+Name: res/drawable/btn_paire_start_selector.xml
+SHA1-Digest: sEg0iXaaCUPEgYIS1vAH0BN93dI=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: myW1K/t49FvtuNXouwqmr50SWOs=
+
+Name: res/layout-v17/notification_template_big_media_custom.xml
+SHA1-Digest: rdnXJtslXkvLmjZyxmXTj6s9wLg=
+
+Name: res/drawable-nodpi-v4/bettawaring.png
+SHA1-Digest: 6tQk7VEg8hpOVcBi5yP77YBSZU4=
+
+Name: res/drawable/toast_close_selector.xml
+SHA1-Digest: VwOjAu3qq83Bk6qqua0LBg4Xi9o=
+
+Name: res/drawable/btn_paire_id_selector.xml
+SHA1-Digest: PwEmnTR/2sFJHJNsjq8PR36ghAA=
+
+Name: res/drawable-nodpi-v4/ic_noexchange.png
+SHA1-Digest: gbbVeWkMtOMcPJ1Zg94U89APSMg=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange_bl_fr.png
+SHA1-Digest: PYDIBoJ3kZ+XBnOIL88C7b4mOds=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: JzoQG9DGRrmkgDxn6cE80Jpmgyw=
+
+Name: res/layout/fragment_exchange.xml
+SHA1-Digest: 5FciV2JpuOYWAxuJBMiEn3MMvh8=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: bE62HalPnHFvkfSBCFUMhCT8y+k=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA1-Digest: OGGiGAP82euSpAMCew2iu3rdTeE=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: res/drawable-nodpi-v4/btn_start_exchange.png
+SHA1-Digest: LOjjSPGTU8TpM4bQcWIyjzMUBlA=
+
+Name: res/drawable-nodpi-v4/btn_exchange.png
+SHA1-Digest: OeLmhkJMJIdwt1eD25fve3O5vUk=
+
+Name: lib/armeabi-v7a/libstdSerialport.so
+SHA1-Digest: dKnWyyrFJBKuy0lcD6LQ5JlFYvs=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: CVrDHH96+wWIhHGeAVbfOavfvmU=
+
+Name: res/drawable-nodpi-v4/btn_exchange_d.png
+SHA1-Digest: XXspt9OdFNk0JJIPoW1yguY4wd0=
+
+Name: res/drawable/bl_fr_level.xml
+SHA1-Digest: wAJdxuj/vmHxZ968TEjL0JpdmRc=
+
+Name: res/layout/time_dialog.xml
+SHA1-Digest: 6h6hbMUJk9exEOwn0dhy3jIG56o=
+
+Name: res/drawable/sptires_bkinfo_level.xml
+SHA1-Digest: zN02M8Na99kux6Yfh/V1uxvYisQ=
+
+Name: res/drawable-nodpi-v4/sptires_ok_info.png
+SHA1-Digest: mfdoWh35TmJ49GrrPnT7TJypm3o=
+
+Name: res/layout-v17/notification_template_lines_media.xml
+SHA1-Digest: hoP0fmDvQLNUu1ZsYr2kUGI5Xec=
+
+Name: res/drawable/btn_paire_canel_selector.xml
+SHA1-Digest: nkRGiToz/AERp2+/lQcfbOGujnA=
+
+Name: META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/btn_canel_d.png
+SHA1-Digest: 20stozWElAUPJuCKYPnQrPs+518=
+
+Name: res/drawable-nodpi-v4/tires.png
+SHA1-Digest: nSKCvWrP6FCkgHYBStrGRBUhUhI=
+
+Name: res/drawable/btn_add_selector.xml
+SHA1-Digest: tnlENWZywjRSCmT1ySmuroKAxuc=
+
+Name: res/drawable/sp_fl_level.xml
+SHA1-Digest: +UN5MoDy1MDLnzcoQCZouUtImxk=
+
+Name: res/drawable-nodpi-v4/ic_sp_fl.png
+SHA1-Digest: uEF6/Wmyqs5ok1DaQtOxBc2YVHg=
+
+Name: res/drawable-nodpi-v4/btn_long_d.png
+SHA1-Digest: Imu4PRC9H/FxM98T4pqAuhZYf+I=
+
+Name: lib/x86/libstdSerialport.so
+SHA1-Digest: s9lYkZxMYzFeIlOeRjGjtqzOjF4=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: 8WDJkMdQY4HTOuWXKfusCxBiN5U=
+
+Name: res/drawable-nodpi-v4/btn_add_d.png
+SHA1-Digest: b6ojNE8mnzLZP/cN2itnG9NGh9M=
+
+Name: res/layout/click_warring_toast.xml
+SHA1-Digest: TiW5LgYWIfIsf4ziLRl0GDXUiVs=
+
+Name: res/drawable/sptires_level.xml
+SHA1-Digest: GC8vGqJXE8uLs6VzqFLlnG7n02o=
+
+Name: res/drawable-nodpi-v4/img_nosptires_exchange.png
+SHA1-Digest: MHfg0HtytWsCPlmAOCieMz7G/20=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: 3mDu9Uf1TooietQRDQxGnXlNFFU=
+
+Name: res/anim/playb_horizontalgroup000layoutinit.xml
+SHA1-Digest: lCLOp+rn4IMGOrEm4ITC9qLnGCo=
+
+Name: res/drawable/btn_ok_selector.xml
+SHA1-Digest: tVsIxK+AjiOxdf4CAp26O/uDn2E=
+
+Name: res/drawable/exchange_sptires_level.xml
+SHA1-Digest: Qt5w0Dj4g6aWV5knZOAyp2CBjW4=
+
+Name: res/layout/connect_error_dialog.xml
+SHA1-Digest: 7xpBqzLvBDa/ofUmmFdQHFxkdhY=
+
+Name: res/drawable-nodpi-v4/btn_cannel_exchange_d.png
+SHA1-Digest: mXb1GYqRDpetv5RU3uNcq3HkZvU=
+
+Name: res/layout-v17/notification_template_media_custom.xml
+SHA1-Digest: PLU3c7sg7HbiJI44iSu9IKIKR8s=
+
+Name: META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/ic_gou.png
+SHA1-Digest: JalXd0bAGuBa9E3uYqQ2NxYMCQA=
+
+Name: res/drawable-nodpi-v4/warring_plane.png
+SHA1-Digest: YUyy/7UKCqXNMfii+FTiv3JZ5R8=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange_sp_fl.png
+SHA1-Digest: 2OKzlcAe3BZovUz9mEI9zilk+TE=
+
+Name: res/drawable-nodpi-v4/tpms_set_n.png
+SHA1-Digest: LOjjSPGTU8TpM4bQcWIyjzMUBlA=
+
+Name: META-INF/androidx.print_print.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/btn_set_n.png
+SHA1-Digest: P8y9J0ETEJtBeVrCdI0OoYRIP8o=
+
+Name: res/drawable-nodpi-v4/mater_updown.png
+SHA1-Digest: ErI4Yy0JevP2mu9o2LWyH74UHhk=
+
+Name: res/drawable-nodpi-v4/ic_launcher.png
+SHA1-Digest: x4rSuNhGgFpgs2/FPPwiEXc2+Fo=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: l/2LlKVGzZDqP2elQue1KN37EOI=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: 8CTyvSpsXbJGXl3I2m6QJgjx0EQ=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange.png
+SHA1-Digest: kBeZ6/2iOksNdCv8pD6Egpw1Uvk=
+
+Name: res/drawable-nodpi-v4/checkbox_on_n.png
+SHA1-Digest: sdREauWj10rHuCtHE5I7UVVLXds=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/ic_fl_bl.png
+SHA1-Digest: npVbyB3GJasL4C5G+93TN46cyyI=
+
+Name: res/xml/provider_paths.xml
+SHA1-Digest: nPsswZ5H2a8U4WtNeQofH8QeSa0=
+
+Name: res/xml/device_filter.xml
+SHA1-Digest: VZDQZ942WcHDXFWUoTcdxZIamWI=
+
+Name: res/drawable-nodpi-v4/ic_sp_bl.png
+SHA1-Digest: dsPfbGBhFRFc7ckL3cY6R29I9Ys=
+
+Name: res/drawable-nodpi-v4/start_paire_d.png
+SHA1-Digest: mXb1GYqRDpetv5RU3uNcq3HkZvU=
+
+Name: META-INF/androidx.loader_loader.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/ic_notif_ok.png
+SHA1-Digest: QpCfcC35f9PzepGfUsh7L5L5Bd0=
+
+Name: res/drawable/btn_back_selector.xml
+SHA1-Digest: rvpMBWicghhPbsNpx2Qpj+nVw4o=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA1-Digest: OGGiGAP82euSpAMCew2iu3rdTeE=
+
+Name: res/drawable/btn_cannel_exchange_selector.xml
+SHA1-Digest: BKuEp6Sm5bPDL1NYuiNUDHfqheM=
+
+Name: res/drawable-nodpi-v4/sptires_ok.png
+SHA1-Digest: NB/11utVXQTPgo3hI0ll17RJEF8=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: S4ykcxrnjB4l0KvVKsCZO18q47k=
+
+Name: res/drawable-nodpi-v4/btn_add_n.png
+SHA1-Digest: 5ty7dUGlqFK4l603Xcm8/zKmiKs=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/ok_info.png
+SHA1-Digest: cg/DoPKcUmH6EGnAXvuio4ArSFk=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: 4ADYnztU5m2AKDEhddyKOPuhXuI=
+
+Name: res/drawable-mdpi-1024x600-v4/ic_launcher.png
+SHA1-Digest: x4rSuNhGgFpgs2/FPPwiEXc2+Fo=
+
+Name: res/drawable-nodpi-v4/ic_notif_error.png
+SHA1-Digest: Ubqhsa8lnEnwgmr3hAGHLCxjI+U=
+
+Name: res/drawable-nodpi-v4/btn_ok_d.png
+SHA1-Digest: 20stozWElAUPJuCKYPnQrPs+518=
+
+Name: res/drawable-nodpi-v4/btn_canel_n.png
+SHA1-Digest: cQvfT8d/fgTwq/+zDS4L7vJXO/U=
+
+Name: res/drawable-nodpi-v4/deputy_updown.png
+SHA1-Digest: MIOwKSUXh9+YfltGGHA7rlTPDFk=
+
+Name: res/drawable-nodpi-v4/ic_sp_fr.png
+SHA1-Digest: 38JGtrg7w48aKbvEGJtwquNnrBo=
+
+Name: res/drawable/tires_level.xml
+SHA1-Digest: 4uJDHMGCgikM6rXu6UJQp2YUdCE=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: 1aPZEtsB3ZYfav4S6oW0EgA5+Ts=
+
+Name: lib/x86_64/libstdSerialport.so
+SHA1-Digest: mySdFwdJy+rbhJDZm9N45rs5rcw=
+
+Name: res/drawable-nodpi-v4/sptires.png
+SHA1-Digest: NB/11utVXQTPgo3hI0ll17RJEF8=
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/ic_back_n.png
+SHA1-Digest: PMktCrfzWH8Mtbs6CWdBzBOqeGw=
+
+Name: res/drawable-nodpi-v4/ic_bl_br.png
+SHA1-Digest: PaM2aRTLDYFnoBWVydSB0NssNLQ=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: 4qnlRJKrvbOYReoS+VBn0xKcQ7I=
+
+Name: res/drawable-nodpi-v4/btn_def_n.png
+SHA1-Digest: b3Ijfn9gMobE4Nr7mP7UnkrafRY=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: 6sJ7sjac9Lnzn03PEoe8xZdqWfw=
+
+Name: res/drawable-nodpi-v4/checkbox_off_n.png
+SHA1-Digest: vWzwXMxDxYCQwffIxMDTwhlJAfs=
+
+Name: META-INF/androidx.legacy_legacy-support-v4.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable/btn_default_selector.xml
+SHA1-Digest: 5Z2S4zjLcUNBRZjg6p2bcX4gi2Y=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: QRm5wYtBYFNv3lTZg9B5wM+SP3k=
+
+Name: META-INF/androidx.media_media.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/layout-v17/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: 1OcLdF1RT64BI81LrykQMVmaeHk=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: x4rSuNhGgFpgs2/FPPwiEXc2+Fo=
+
+Name: res/drawable-nodpi-v4/ic_bl_fr.png
+SHA1-Digest: ZNNU59f+CDrqzE9nmrg/MnPXpNw=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: CKU1xuLRdhvKJvy4OKuG5a3Ez9w=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: OAG9/E4EW1Xa53tswb1E6M4NBdo=
+
+Name: res/drawable-nodpi-v4/img_nosptires_exchange_fl_br.png
+SHA1-Digest: VK0TlZf2ctjMyCG26Q8/P43kSoU=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+Name: res/drawable-nodpi-v4/img_sptires_bl_br.png
+SHA1-Digest: 4S3d/a82u7hpzNd0Zm5+7fQGwKo=
+
+Name: res/drawable-nodpi-v4/tpms_set_d.png
+SHA1-Digest: J+i1QKjw68uFsFFnQGl6Dxl3lrY=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/layout/progress_dialog.xml
+SHA1-Digest: h5SQn+Q5CXKAY6hT0m8s2Il09lk=
+
+Name: res/drawable-nodpi-v4/img_nosptires_exchange_fr_br.png
+SHA1-Digest: zqluy40CLf5kyVfT9VbhVCTpw8A=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: A/LxMx4dDsN25gWW6AylUvzcGbs=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: x4rSuNhGgFpgs2/FPPwiEXc2+Fo=
+
+Name: res/layout/activity_set.xml
+SHA1-Digest: pkqm3ANs2vk2fzZhDeccigyX4Wo=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: KtoA42Za/40OVg86Vt/mGN/IhZI=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: lHP2KU/WCXjWVnoatuFo6tnTPPs=
+
+Name: res/drawable/btn_tpms_set_selector.xml
+SHA1-Digest: CW4KnfzoVKUq6gxPCMoaIIPUUa8=
+
+Name: res/drawable-nodpi-v4/ic_close_d.png
+SHA1-Digest: i830Sy/p1LegxNEeAfA3TPIcjmE=
+
+Name: res/drawable-nodpi-v4/tires_paire_ok.png
+SHA1-Digest: 0wRazLjC1zqdWfEnMiyJG1NE8js=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: bL9ada2F4bBZXfoj14PE7kU7lPQ=
+
+Name: res/menu/main.xml
+SHA1-Digest: bEo7iFMDx3j94Xk8l2iXkcJaE04=
+
+Name: res/raw/alarm.wav
+SHA1-Digest: TisFRsclrI7ZNElM6VSZiPQCy0c=
+
+Name: META-INF/androidx.asynclayoutinflater_asynclayoutinflater.versio
+ n
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: res/drawable/btn_bg_selector.xml
+SHA1-Digest: /1RdaBR3upegPQCap0Vxatj6ehc=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: FAZljYEMaxAZNj5Zc2iRg1X+Y0M=
+
+Name: res/drawable-nodpi-v4/ic_back_d.png
+SHA1-Digest: Ks+aYHvklZsquNBqD5HQrKo+E7E=
+
+Name: res/drawable-nodpi-v4/canel_paire.png
+SHA1-Digest: 7Nv2DQsD3KgJOiQQOwITDlFXrns=
+
+Name: META-INF/androidx.core_core.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-nodpi-v4/btn_start_exchange_d.png
+SHA1-Digest: J+i1QKjw68uFsFFnQGl6Dxl3lrY=
+
+Name: res/drawable/btn_dec_selector.xml
+SHA1-Digest: THajQZM72hNer9iey8ptlvL9DHc=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA1-Digest: OGGiGAP82euSpAMCew2iu3rdTeE=
+
+Name: res/layout/error_dialog.xml
+SHA1-Digest: qoSypJnXR5u2wIeiXLVBp6TiS6E=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: xvIUrVqbGzgwidmTBxh6Jg8zTAg=
+
+Name: res/drawable-nodpi-v4/btn_def_d.png
+SHA1-Digest: lpmstOjtGF3yNGoNhpCDVrk+XgA=
+
+Name: res/drawable-nodpi-v4/ic_fr_br.png
+SHA1-Digest: 9F5mPQNQs1Vt7r9+p90NpxMnV7Q=
+
+Name: res/drawable-nodpi-v4/deputy_cross.png
+SHA1-Digest: CN0p137Bs02P79Oj0dvd227CWek=
+
+Name: res/drawable-nodpi-v4/img_sptires_exchange_fl_fr.png
+SHA1-Digest: Ue7vMElVrBoMZRdV9fJDDN+M4rA=
+
+Name: res/drawable-nodpi-v4/ic_fr_fl.png
+SHA1-Digest: qxuFd4x20naOKFCHmhoYgh/Ki80=
+
+Name: res/drawable-nodpi-v4/error_plane.png
+SHA1-Digest: byQyU/V1yszwuPeV4a0RD02Argw=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: res/drawable-nodpi-v4/img_nosptires_exchange_bl_fr.png
+SHA1-Digest: rZ9qTT9c5AssXFj0ULLrNBPkHPU=
+
+Name: res/layout/fragment_exchange2.xml
+SHA1-Digest: CASxSfrCrOISS2IwJF6qoPuK4Ao=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: APYtGQhpR/p4bZ9D/4idC7n3ARw=
+
+Name: classes.dex
+SHA1-Digest: xKr5e+rAIF+gIDAtJZn/K71KD9w=
+
+Name: res/drawable-nodpi-v4/start_paire.png
+SHA1-Digest: +4Y9TOYcFqFf0k2aGthd2rccPdU=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+
