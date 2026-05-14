@@ -47,12 +47,19 @@
 
 ---
 
+## 📥 Скачивание APK
+
+**[⬇️ Скачать tpms_prod_ru_signed.apk (3.5 MB)](../../releases/download/v1.0/tpms_prod_ru_signed.apk)**
+
+Или прямо из папки: [releases/tpms_prod_ru_signed.apk](releases/tpms_prod_ru_signed.apk)
+
+---
+
 ## 🚀 Установка
 
 > ⚠️ **Требуется:**
 > - **Root доступ** ИЛИ
 > - **Системная подпись** (sharedUserId="android.uid.system")
-> - **APK файл** (скомпилируйте из исходников или получите у автора)
 
 ### Способ 1: ADB (если подключена к компьютеру)
 ```bash
@@ -61,7 +68,7 @@ adb shell am start -n com.syt.tmps/.TpmsApplication
 ```
 
 ### Способ 2: Файловый менеджер (на магнитоле)
-1. Получите APK файл (`tpms_prod_ru_signed.apk`)
+1. Скачайте `tpms_prod_ru_signed.apk` из репозитория
 2. Скопируйте его на USB или microSD
 3. Откройте файловый менеджер на магнитоле
 4. Выберите APK и нажмите "Установить"
@@ -112,7 +119,7 @@ zipalign -f 4 tpms_modified.apk tpms_signed.apk
 ```
 tpms-apk/
 ├── README.md                          ← Этот файл
-├── .gitignore                         ← Исключает большие файлы и APK
+├── .gitignore                         ← Исключает большие файлы
 ├── apktool_tpms-fyt/                  ← Распакованный APK (исходный код)
 │   ├── res/
 │   │   ├── values/strings.xml         ← Английские строки
@@ -121,6 +128,8 @@ tpms-apk/
 │   ├── smali/com/tpms/biz/
 │   │   └── Tpms.smali                 ← Логика поправки давления
 │   └── AndroidManifest.xml            ← Разрешения и компоненты
+├── releases/
+│   └── tpms_prod_ru_signed.apk        ← Готовый APK для установки ✅
 └── images/
     ├── tpms_product.png               ← Фото товара с Ozon
     └── screen_set.png                 ← Скриншот настроек TPMS (RU)

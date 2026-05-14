@@ -1,5 +1,11 @@
-# APK сборки (исключаются все)
-*.apk
+# APK сборки (исключаются все, кроме релизного)
+tpms_test*.apk
+tpms_prod.apk
+tpms_prod_ru.apk
+tpms_modified.apk
+tpms_pass1.apk
+tpms_final.apk
+tpms_signed.apk
 *.idsig
 
 # Platform ключи (секретные)
