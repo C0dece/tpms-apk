@@ -1,6 +1,6 @@
 # TPMS APK — Модифицированное приложение для контроля давления шин
 
-![Товар](ДОБАВИТЬ_ФОТО_СЮДА)
+![Товар](images/tpms_product.png)
 
 > Модификация оригинального TPMS приложения для Android-магнитол.  
 > Добавлена калибровка давления, устранена погрешность датчиков −0.25 бар.
@@ -72,11 +72,9 @@ adb shell am start -n com.syt.tmps/.TpmsApplication
 
 ---
 
-## 📱 Скриншоты
+## 📱 Скриншот настроек (RU)
 
-| Главный экран (EN) | Главный экран (RU) | Настройки TPMS (RU) |
-|---|---|---|
-| ![Main EN](screenshots/screen.png) | ![Main RU](screenshots/screen_ru.png) | ![Settings](screenshots/settings_ru.png) |
+![Settings](screenshots/screen_ru.png)
 
 ---
 
