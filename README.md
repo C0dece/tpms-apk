@@ -74,7 +74,7 @@ adb shell am start -n com.syt.tmps/.TpmsApplication
 
 ## 📱 Скриншот настроек (RU)
 
-![Settings](screenshots/screen_ru.png)
+![Settings](images/screen_set.png)
 
 ---
 
@@ -121,10 +121,9 @@ tpms-apk/
 │   └── AndroidManifest.xml            ← Разрешения и компоненты
 ├── releases/
 │   └── tpms_prod_ru_signed.apk        ← Готовый APK для установки ✅
-├── screenshots/
-│   └── screen_ru.png                  ← Настройки TPMS (RU)
 └── images/
-    └── tpms_product.png               ← Фото товара с Ozon
+    ├── tpms_product.png               ← Фото товара с Ozon
+    └── screen_set.png                 ← Скриншот настроек TPMS (RU)
 ```
 
 ---
