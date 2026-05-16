@@ -38,6 +38,10 @@
 
 .field mHeartbeat:Ljava/lang/Runnable;
 
+.field mRetryCount:I
+
+.field mRetryRunnable:Ljava/lang/Runnable;
+
 .field mTimerCheckSeed:Landroid/os/Handler;
 
 .field mZhuDongBaojin:I
@@ -151,6 +155,16 @@
     int-to-byte v0, v1
 
     iput-byte v0, p0, Lcom/tpms/biz/Tpms3;->time:B
+
+    new-instance v0, Lcom/tpms/biz/Tpms3$11;
+
+    invoke-direct {v0, p0}, Lcom/tpms/biz/Tpms3$11;-><init>(Lcom/tpms/biz/Tpms3;)V
+
+    iput-object v0, p0, Lcom/tpms/biz/Tpms3;->mRetryRunnable:Ljava/lang/Runnable;
+
+    const/4 v0, 0x0
+
+    iput v0, p0, Lcom/tpms/biz/Tpms3;->mRetryCount:I
 
     .line 96
     return-void
@@ -507,7 +521,7 @@
     return-void
 .end method
 
-.method private isAllTiresOk()Z
+.method isAllTiresOk()Z
     .locals 7
 
     .line 435
@@ -3935,5 +3949,31 @@
     invoke-virtual {p0}, Lcom/tpms/biz/Tpms3;->showErrorNotifMsg()V
 
     .line 1059
+    return-void
+.end method
+
+.method public startTpms()V
+    .locals 4
+
+    invoke-super {p0}, Lcom/tpms/biz/Tpms;->startTpms()V
+
+    const/4 v0, 0x0
+
+    iput v0, p0, Lcom/tpms/biz/Tpms3;->mRetryCount:I
+
+    iget-object v0, p0, Lcom/tpms/biz/Tpms;->mHeader:Landroid/os/Handler;
+
+    iget-object v1, p0, Lcom/tpms/biz/Tpms3;->mRetryRunnable:Ljava/lang/Runnable;
+
+    invoke-virtual {v0, v1}, Landroid/os/Handler;->removeCallbacks(Ljava/lang/Runnable;)V
+
+    iget-object v0, p0, Lcom/tpms/biz/Tpms;->mHeader:Landroid/os/Handler;
+
+    iget-object v1, p0, Lcom/tpms/biz/Tpms3;->mRetryRunnable:Ljava/lang/Runnable;
+
+    const-wide/16 v2, 0x1F40
+
+    invoke-virtual {v0, v1, v2, v3}, Landroid/os/Handler;->postDelayed(Ljava/lang/Runnable;J)Z
+
     return-void
 .end method

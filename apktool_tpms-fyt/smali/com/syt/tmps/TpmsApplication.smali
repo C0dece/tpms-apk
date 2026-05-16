@@ -632,7 +632,7 @@
 .end method
 
 .method public showNormalNotifMsg()V
-    .locals 3
+    .locals 4
 
     .line 240
     iget-object v0, p0, Lcom/syt/tmps/TpmsApplication;->TAG:Ljava/lang/String;
@@ -657,6 +657,18 @@
 
     .line 242
     invoke-static {p0}, Lcom/tpms/utils/NotifBar;->showNormalNotif(Landroid/content/Context;)V
+
+    new-instance v0, Landroid/os/Handler;
+
+    invoke-direct {v0}, Landroid/os/Handler;-><init>()V
+
+    new-instance v1, Lcom/syt/tmps/TpmsApplication$2;
+
+    invoke-direct {v1, p0}, Lcom/syt/tmps/TpmsApplication$2;-><init>(Lcom/syt/tmps/TpmsApplication;)V
+
+    const-wide/16 v2, 0xBB8
+
+    invoke-virtual {v0, v1, v2, v3}, Landroid/os/Handler;->postDelayed(Ljava/lang/Runnable;J)Z
 
     .line 244
     return-void

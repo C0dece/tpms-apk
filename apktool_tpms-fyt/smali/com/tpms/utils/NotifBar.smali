@@ -880,3 +880,37 @@
 
     throw p0
 .end method
+
+.method public static hideNormalNotif(Landroid/content/Context;)V
+    .locals 2
+
+    sget v0, Lcom/tpms/utils/NotifBar;->mNotificationState:I
+
+    const/4 v1, 0x1
+
+    if-ne v0, v1, :return
+
+    invoke-virtual {p0}, Landroid/content/Context;->getApplicationContext()Landroid/content/Context;
+
+    move-result-object v0
+
+    check-cast v0, Lcom/syt/tmps/TpmsApplication;
+
+    invoke-virtual {v0}, Lcom/syt/tmps/TpmsApplication;->getTpmsServices()Landroid/app/Service;
+
+    move-result-object v0
+
+    if-eqz v0, :clear_state
+
+    const/4 v1, 0x1
+
+    invoke-virtual {v0, v1}, Landroid/app/Service;->stopForeground(Z)V
+
+    :clear_state
+    const/4 v0, -0x1
+
+    sput v0, Lcom/tpms/utils/NotifBar;->mNotificationState:I
+
+    :return
+    return-void
+.end method
